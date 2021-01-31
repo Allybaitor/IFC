@@ -1,6 +1,7 @@
 # IFC
-Inedible Fortune Cookies - McHacks 8
+Inedible Fortune Cookies - McHacks 8 - Project done with Hao Chen He and Yi Wei Xiong
 
-Audio Unfortunately not working on Inedible Fortune Cookies.exe
-If you want to hear the audio, you can run the app using the source code, welcome.py,
-but you have to download pygame and tkinter. The exe file does not require having these extensions.
+Inedible Fortune Cookies.zip contains .exe file that runs the app/game (the audio unfortunately doesn't work on the .exe file)
+
+If you want to hear the audio, you can download Inedible Fortune Cookies Python.zip, and then run welcome.py,
+but you have to download pygame and tkinter.
